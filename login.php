@@ -46,6 +46,7 @@ if ($_POST) {
         <p><button type="submit">Entrar</button></p>
     </form>
 
+    <p><a href="registro.php">Regístrate aquí</a></p>
 </body>
 
 </html>
